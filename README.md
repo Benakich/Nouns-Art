@@ -1,64 +1,99 @@
-# 🎨 Nounish Wallpapers – A Web3 Noun Art Collector
+# 🎨 Nouns Art Collector – Archive, Inspire, Interact
 
-**Live Preview:**  
-👉 [View the app here](https://glittering-brioche-12d83f.netlify.app)  
-
----
-
-## 📌 Project Summary
-
-This is a no-code Web3 project that collects, preserves, and showcases artwork created during **Nouns DAO contests, proposals, and events**. Many of these arts are beautiful but get lost over time. We’re building a platform that archives them, turns them into downloadable wallpapers, allows minting as NFTs, and supports interaction via **Farcaster Frames**.
+**Live App:**  
+🌐 https://glittering-brioche-12d83f.netlify.app  
 
 ---
 
-## 🛠 Tools Used
+## 📌 What Is This?
 
-- 🧱 **Framer** – for UI and UX design  
-- 🔗 **Netlify** – for hosting  
-- 📋 **Airtable** – to manage artist submissions & artwork entries  
-- 🧙‍♂️ **Farcaster** – to allow users to view or mint directly in Frames  
-- ⚡️ Planning to use **custom scraping tools or APIs** to automate fetching of arts
+**Nouns Art Collector** is a no-code Web3 project that collects and showcases artworks created for **Nouns DAO** events – from contests and proposals to seasonal themes.
 
----
-
-## 🚧 Development Roadmap
-
-### ✅ Phase 1 – MVP (Complete)
-- ✅ Built basic UI in Framer
-- ✅ Published site to Netlify
-- ✅ Setup Airtable CMS
-- ✅ Designed Frame-ready layout
-
-### 🔜 Phase 2 – Frame Integration & Upload Support
-- Add Farcaster frame metadata
-- Enable uploading and tagging by artists
-- Integrate "Apply as Wallpaper" on mobile
-
-### 🚀 Phase 3 – Community & Minting
-- Add voting system for artworks
-- Enable NFT minting or attribution
-- Launch on Nouns channels & Farcaster communities
+These artworks are often forgotten, scattered across the web. We're building a lightweight, beautiful home for them:  
+→ As downloadable wallpapers  
+→ As creative inspiration  
+→ As interactive Farcaster Frames  
+→ As future NFT drops  
 
 ---
 
-## 📊 Metrics to Track
+## 🛠 Tech Stack (No Code First)
 
-- Number of artworks submitted
-- Daily unique visitors to the site
-- Number of frames generated and shared
-- Artist engagement and contributions
-
----
-
-## 🧠 Why This Matters
-
-Noun Art deserves a digital archive. This project isn’t just about images – it’s about **preserving creativity**, celebrating artists, and encouraging reuse through a fresh, fun interface. Frames, NFTs, wallpapers – it all starts here.
+| Tool | Purpose |
+|------|---------|
+| **Framer** | Frontend UI |
+| **Netlify** | Hosting |
+| **Airtable** | CMS for uploading art |
+| **Farcaster** | Interactive discovery via Frames |
+| **GitHub** | Public documentation of the build |
+| **(Soon)** Scraper/API | For automating collection |
 
 ---
 
-## 🧪 Built With ❤️ by
-**[@pandagrey]** – exploring AI, no-code tools, and onchain creativity in Web3.  
+## 🚀 Roadmap
 
-📬 Twitter/Farcaster: [@pvndvgr3y/@pandagrey](#)
+### ✅ Phase 1 – MVP (DONE)
+- [x] Built initial UI on Framer
+- [x] Deployed via Netlify
+- [x] Showcased curated Noun artworks
+- [x] Connected image saving
 
+### 🔜 Phase 2 – Artist Uploads & Metadata
+- [ ] Add Airtable backend for community artist uploads
+- [ ] Add art categories/tags
+- [ ] Collect user feedback on UX
 
+### 🔮 Phase 3 – Frame Integration & Scrollable Art
+- [ ] Add Farcaster metadata for frames
+- [ ] Let users scroll through arts from the frame itself
+- [ ] Add auto-updating Frames from Airtable
+
+### 🧪 Phase 4 – Minting, Community
+- [ ] Optional NFT minting
+- [ ] Attribution to long-term artists
+- [ ] Social voting on new drops
+
+---
+
+## 📈 Success Metrics
+
+We’ll track:
+- 🖼 Number of artworks submitted
+- 👤 Returning artist contributors
+- 📱 Engagement via Farcaster Frames
+- 🎯 Views, downloads, and Frame shares
+
+---
+
+## 🧠 Why This Project Matters
+
+Nouns has inspired a wave of creative expression.  
+But most Noun Art fades away post-event.
+
+This project:
+- Preserves culture in one place  
+- Opens up discovery (via Frames and tags)  
+- Helps artists get recognition  
+- Powers future storytelling + design efforts
+
+---
+
+## 🤝 Get Involved
+
+You can:
+- Submit your artwork (Airtable form coming soon!)
+- Suggest features [via GitHub Issues](https://github.com/Benakich/Nouns-Art/issues)
+- Star this repo to show support 💫
+
+---
+
+## 🧪 Built by
+**[pandagrey]** — tinkering with AI, no-code, and Web3 creativity.  
+Farcaster: [@pandagrey](#)  
+Twitter: [@pvndvgr3y](#)
+
+---
+
+## License
+
+MIT License – free to fork, remix, reuse.
