@@ -1,0 +1,49 @@
+[Home Page]
+   |
+   |---> [Explore Artworks]
+   |         |
+   |         |---> [View Art Details]
+   |         |         |---> Save as Wallpaper
+   |         |         |---> Like / Comment / Share
+   |         |         |---> View Artist Profile
+   |         |
+   |         |---> [Filter by Tag / Artist / Theme / Source]
+   |
+   |---> [Upload Artwork]
+   |         |
+   |         |---> [Artist Login / Wallet Auth (optional)]
+   |         |---> [Upload Form]
+   |                   |-- Upload JPEG / PNG
+   |                   |-- Enter Title
+   |                   |-- Link to Original Post (optional)
+   |                   |-- Choose Category/Source
+   |                   |-- Add Tags
+   |                   |-- Artist Name
+   |                   |-- Consent / License
+   |
+   |---> [Artist Profiles]
+   |         |
+   |         |---> [List of Artists]
+   |         |---> [View Individual Artist]
+   |                   |-- Bio
+   |                   |-- All Artworks
+   |                   |-- Total Likes / Interactions
+   |
+   |---> [Farcaster Frame Viewer]
+   |         |
+   |         |---> [Scrollable Artwork Frame]
+   |         |---> [Engage from Farcaster (Like/Save)]
+   |
+   |---> [About / Info]
+   |         |---> Nouns DAO + Project Info
+   |         |---> Artist Credits
+   |         |---> Support the Project
+
+[Admin/Curator View]
+   |
+   |---> Dashboard
+   |         |-- Review Uploads
+   |         |-- Tag & Categorize
+   |         |-- Highlight Featured Art
+   |         |-- Moderate Comments (if enabled)
+   |         |-- Export Data
